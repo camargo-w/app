@@ -1,6 +1,0 @@
-{
-  "globalDependencies": {
-    "material-design-lite": "registry:dt/material-design-lite#1.1.3+20160423150231",
-    "underscore": "registry:dt/underscore#1.8.3+20160908111004"
-  }
-}
